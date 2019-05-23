@@ -1,0 +1,1881 @@
+2019-05-19 19:05:75 INFO  HomePage :26 - enter user name to login
+2019-05-19 19:05:797 INFO  HomePage :31 - enter password to login
+2019-05-19 19:05:03 INFO  HomePage :36 - click on login button
+2019-05-19 19:05:410 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-19 19:05:906 INFO  HomePage :26 - enter user name to login
+2019-05-19 19:05:106 INFO  HomePage :31 - enter password to login
+2019-05-19 19:05:265 INFO  HomePage :36 - click on login button
+2019-05-19 19:05:370 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-19 19:05:848 INFO  HomePage :26 - enter user name to login
+2019-05-19 19:05:989 INFO  HomePage :31 - enter password to login
+2019-05-19 19:05:89 INFO  HomePage :36 - click on login button
+2019-05-19 19:05:08 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-19 19:05:994 INFO  HomePage :26 - enter user name to login
+2019-05-19 19:05:165 INFO  HomePage :36 - click on login button
+2019-05-19 19:05:255 INFO  HomePage :41 - Verify that password can not be empty
+2019-05-19 19:05:953 INFO  HomePage :31 - enter password to login
+2019-05-19 19:05:114 INFO  HomePage :36 - click on login button
+2019-05-19 19:05:272 INFO  HomePage :51 - Verify that user name can not be empty
+2019-05-19 19:05:529 INFO  HomePage :26 - enter user name to login
+2019-05-19 19:05:726 INFO  HomePage :31 - enter password to login
+2019-05-19 19:05:857 INFO  HomePage :36 - click on login button
+2019-05-19 19:05:214 INFO  HomePage :26 - enter user name to login
+2019-05-19 19:05:185 INFO  HomePage :31 - enter password to login
+2019-05-19 19:05:375 INFO  HomePage :36 - click on login button
+2019-05-19 19:05:61 INFO  PIMMenu :24 - Mouse Over PIM
+2019-05-19 19:05:384 INFO  PIMMenu :29 - Click on Add Employee
+2019-05-19 20:05:315 INFO  HomePage :26 - enter user name to login
+2019-05-19 20:05:242 INFO  HomePage :31 - enter password to login
+2019-05-19 20:05:456 INFO  HomePage :36 - click on login button
+2019-05-19 20:05:245 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-19 20:05:827 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-19 21:05:998 INFO  HomePage :26 - enter user name to login
+2019-05-19 21:05:695 INFO  HomePage :31 - enter password to login
+2019-05-19 21:05:893 INFO  HomePage :36 - click on login button
+2019-05-19 21:05:243 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-19 21:05:840 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-19 21:05:170 INFO  AddEmployeeForm :32 - Enter First Name
+2019-05-19 21:05:03 INFO  AddEmployeeForm :37 - Enter Middle Name
+2019-05-19 21:05:157 INFO  AddEmployeeForm :42 - Enter Last Name
+2019-05-19 21:05:426 INFO  AddEmployeeForm :47 - Enter Employee ID
+2019-05-19 21:05:514 INFO  AddEmployeeForm :57 - Save Button
+2019-05-19 21:05:233 INFO  HomePage :26 - enter user name to login
+2019-05-19 21:05:406 INFO  HomePage :31 - enter password to login
+2019-05-19 21:05:533 INFO  HomePage :36 - click on login button
+2019-05-19 21:05:824 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-19 21:05:794 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-19 21:05:25 INFO  AddEmployeeForm :35 - Enter First Name
+2019-05-19 21:05:374 INFO  AddEmployeeForm :40 - Enter Middle Name
+2019-05-19 21:05:559 INFO  AddEmployeeForm :45 - Enter Last Name
+2019-05-19 21:05:295 INFO  AddEmployeeForm :50 - Enter Employee ID
+2019-05-19 21:05:410 INFO  AddEmployeeForm :60 - Save Button
+2019-05-19 21:05:276 INFO  HomePage :26 - enter user name to login
+2019-05-19 21:05:864 INFO  HomePage :31 - enter password to login
+2019-05-19 21:05:01 INFO  HomePage :36 - click on login button
+2019-05-19 21:05:767 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-19 21:05:221 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-19 21:05:30 INFO  AddEmployeeForm :35 - Enter First Name
+2019-05-19 21:05:362 INFO  AddEmployeeForm :40 - Enter Middle Name
+2019-05-19 21:05:499 INFO  AddEmployeeForm :45 - Enter Last Name
+2019-05-19 21:05:693 INFO  AddEmployeeForm :50 - Enter Employee ID
+2019-05-19 21:05:817 INFO  AddEmployeeForm :60 - Save Button
+2019-05-19 23:05:630 INFO  HomePage :26 - enter user name to login
+2019-05-19 23:05:261 INFO  HomePage :31 - enter password to login
+2019-05-19 23:05:459 INFO  HomePage :36 - click on login button
+2019-05-19 23:05:442 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-19 23:05:466 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-19 23:05:306 INFO  AddEmployeeForm :44 - Enter First Name
+2019-05-19 23:05:949 INFO  AddEmployeeForm :49 - Enter Middle Name
+2019-05-19 23:05:83 INFO  AddEmployeeForm :54 - Enter Last Name
+2019-05-19 23:05:490 INFO  AddEmployeeForm :59 - Enter Employee ID
+2019-05-19 23:05:637 INFO  AddEmployeeForm :64 - Create Login Details
+2019-05-19 23:05:727 INFO  AddEmployeeForm :84 - Save Button
+2019-05-19 23:05:130 INFO  AddEmployeeForm :69 - Enter User Name
+2019-05-19 23:05:224 INFO  AddEmployeeForm :74 - Enter Password
+2019-05-19 23:05:308 INFO  AddEmployeeForm :79 - Re-enter Password
+2019-05-19 23:05:406 INFO  AddEmployeeForm :84 - Save Button
+2019-05-19 23:05:333 INFO  HomePage :26 - enter user name to login
+2019-05-19 23:05:924 INFO  HomePage :31 - enter password to login
+2019-05-19 23:05:247 INFO  HomePage :36 - click on login button
+2019-05-19 23:05:18 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-19 23:05:488 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-19 23:05:863 INFO  AddEmployeeForm :44 - Enter First Name
+2019-05-19 23:05:670 INFO  AddEmployeeForm :49 - Enter Middle Name
+2019-05-19 23:05:807 INFO  AddEmployeeForm :54 - Enter Last Name
+2019-05-19 23:05:998 INFO  AddEmployeeForm :59 - Enter Employee ID
+2019-05-19 23:05:178 INFO  AddEmployeeForm :64 - Create Login Details
+2019-05-19 23:05:277 INFO  AddEmployeeForm :69 - Enter User Name
+2019-05-19 23:05:385 INFO  AddEmployeeForm :74 - Enter Password
+2019-05-19 23:05:495 INFO  AddEmployeeForm :79 - Re-enter Password
+2019-05-19 23:05:580 INFO  AddEmployeeForm :84 - Save Button
+2019-05-19 23:05:76 INFO  HomePage :26 - enter user name to login
+2019-05-19 23:05:295 INFO  HomePage :31 - enter password to login
+2019-05-19 23:05:437 INFO  HomePage :36 - click on login button
+2019-05-19 23:05:860 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-19 23:05:96 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-19 23:05:901 INFO  AddEmployeeForm :44 - Enter First Name
+2019-05-19 23:05:141 INFO  AddEmployeeForm :49 - Enter Middle Name
+2019-05-19 23:05:302 INFO  AddEmployeeForm :54 - Enter Last Name
+2019-05-19 23:05:453 INFO  AddEmployeeForm :59 - Enter Employee ID
+2019-05-19 23:05:559 INFO  AddEmployeeForm :64 - Create Login Details
+2019-05-19 23:05:657 INFO  AddEmployeeForm :69 - Enter User Name
+2019-05-19 23:05:748 INFO  AddEmployeeForm :74 - Enter Password
+2019-05-19 23:05:859 INFO  AddEmployeeForm :79 - Re-enter Password
+2019-05-19 23:05:961 INFO  AddEmployeeForm :84 - Save Button
+2019-05-19 23:05:490 INFO  HomePage :26 - enter user name to login
+2019-05-19 23:05:668 INFO  HomePage :31 - enter password to login
+2019-05-19 23:05:820 INFO  HomePage :36 - click on login button
+2019-05-19 23:05:104 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-19 23:05:535 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-19 23:05:666 INFO  AddEmployeeForm :44 - Enter First Name
+2019-05-19 23:05:852 INFO  AddEmployeeForm :49 - Enter Middle Name
+2019-05-19 23:05:06 INFO  AddEmployeeForm :54 - Enter Last Name
+2019-05-19 23:05:149 INFO  AddEmployeeForm :59 - Enter Employee ID
+2019-05-19 23:05:253 INFO  AddEmployeeForm :64 - Create Login Details
+2019-05-19 23:05:343 INFO  AddEmployeeForm :69 - Enter User Name
+2019-05-19 23:05:494 INFO  AddEmployeeForm :74 - Enter Password
+2019-05-19 23:05:649 INFO  AddEmployeeForm :79 - Re-enter Password
+2019-05-19 23:05:782 INFO  AddEmployeeForm :84 - Save Button
+2019-05-19 23:05:180 INFO  HomePage :26 - enter user name to login
+2019-05-19 23:05:480 INFO  HomePage :31 - enter password to login
+2019-05-19 23:05:631 INFO  HomePage :36 - click on login button
+2019-05-19 23:05:740 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-19 23:05:634 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-19 23:05:201 INFO  AddEmployeeForm :44 - Enter First Name
+2019-05-19 23:05:387 INFO  AddEmployeeForm :49 - Enter Middle Name
+2019-05-19 23:05:547 INFO  AddEmployeeForm :54 - Enter Last Name
+2019-05-19 23:05:689 INFO  AddEmployeeForm :59 - Enter Employee ID
+2019-05-19 23:05:785 INFO  AddEmployeeForm :64 - Create Login Details
+2019-05-19 23:05:876 INFO  AddEmployeeForm :69 - Enter User Name
+2019-05-19 23:05:18 INFO  AddEmployeeForm :74 - Enter Password
+2019-05-19 23:05:168 INFO  AddEmployeeForm :79 - Re-enter Password
+2019-05-19 23:05:326 INFO  AddEmployeeForm :84 - Save Button
+2019-05-19 23:05:186 INFO  HomePage :26 - enter user name to login
+2019-05-19 23:05:374 INFO  HomePage :31 - enter password to login
+2019-05-19 23:05:520 INFO  HomePage :36 - click on login button
+2019-05-19 23:05:591 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-19 23:05:369 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-19 23:05:12 INFO  AddEmployeeForm :44 - Enter First Name
+2019-05-19 23:05:214 INFO  AddEmployeeForm :49 - Enter Middle Name
+2019-05-19 23:05:369 INFO  AddEmployeeForm :54 - Enter Last Name
+2019-05-19 23:05:545 INFO  AddEmployeeForm :59 - Enter Employee ID
+2019-05-19 23:05:656 INFO  AddEmployeeForm :64 - Create Login Details
+2019-05-19 23:05:768 INFO  AddEmployeeForm :69 - Enter User Name
+2019-05-19 23:05:955 INFO  AddEmployeeForm :74 - Enter Password
+2019-05-19 23:05:123 INFO  AddEmployeeForm :79 - Re-enter Password
+2019-05-19 23:05:266 INFO  AddEmployeeForm :84 - Save Button
+2019-05-19 23:05:693 INFO  HomePage :26 - enter user name to login
+2019-05-19 23:05:889 INFO  HomePage :31 - enter password to login
+2019-05-19 23:05:31 INFO  HomePage :36 - click on login button
+2019-05-19 23:05:139 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-19 23:05:243 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-19 23:05:973 INFO  AddEmployeeForm :44 - Enter First Name
+2019-05-19 23:05:130 INFO  AddEmployeeForm :49 - Enter Middle Name
+2019-05-19 23:05:256 INFO  AddEmployeeForm :54 - Enter Last Name
+2019-05-19 23:05:376 INFO  AddEmployeeForm :59 - Enter Employee ID
+2019-05-19 23:05:492 INFO  AddEmployeeForm :64 - Create Login Details
+2019-05-19 23:05:594 INFO  AddEmployeeForm :69 - Enter User Name
+2019-05-19 23:05:764 INFO  AddEmployeeForm :74 - Enter Password
+2019-05-19 23:05:924 INFO  AddEmployeeForm :79 - Re-enter Password
+2019-05-19 23:05:59 INFO  AddEmployeeForm :84 - Save Button
+2019-05-20 00:05:807 INFO  HomePage :26 - enter user name to login
+2019-05-20 00:05:723 INFO  HomePage :31 - enter password to login
+2019-05-20 00:05:838 INFO  HomePage :36 - click on login button
+2019-05-20 00:05:454 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-20 00:05:861 INFO  PIMMenu :39 - Click on Employee List
+2019-05-20 00:05:191 INFO  HomePage :26 - enter user name to login
+2019-05-20 00:05:197 INFO  HomePage :31 - enter password to login
+2019-05-20 00:05:376 INFO  HomePage :36 - click on login button
+2019-05-20 00:05:101 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-20 00:05:718 INFO  PIMMenu :39 - Click on Employee List
+2019-05-20 00:05:26 INFO  HomePage :26 - enter user name to login
+2019-05-20 00:05:213 INFO  HomePage :31 - enter password to login
+2019-05-20 00:05:365 INFO  HomePage :36 - click on login button
+2019-05-20 00:05:54 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-20 00:05:267 INFO  PIMMenu :39 - Click on Employee List
+2019-05-20 00:05:572 INFO  HomePage :26 - enter user name to login
+2019-05-20 00:05:715 INFO  HomePage :31 - enter password to login
+2019-05-20 00:05:855 INFO  HomePage :36 - click on login button
+2019-05-20 00:05:452 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-20 00:05:495 INFO  PIMMenu :39 - Click on Employee List
+2019-05-20 00:05:791 INFO  HomePage :26 - enter user name to login
+2019-05-20 00:05:982 INFO  HomePage :31 - enter password to login
+2019-05-20 00:05:100 INFO  HomePage :36 - click on login button
+2019-05-20 00:05:483 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-20 00:05:406 INFO  PIMMenu :39 - Click on Employee List
+2019-05-20 00:05:443 INFO  PIMMenu :51 - Verify that user is on employee list page
+2019-05-20 00:05:31 INFO  HomePage :26 - enter user name to login
+2019-05-20 00:05:248 INFO  HomePage :31 - enter password to login
+2019-05-20 00:05:355 INFO  HomePage :36 - click on login button
+2019-05-20 00:05:486 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-20 00:05:619 INFO  PIMMenu :39 - Click on Employee List
+2019-05-20 00:05:589 INFO  PIMMenu :51 - Verify that user is on employee list page
+2019-05-20 00:05:666 INFO  HomePage :26 - enter user name to login
+2019-05-20 00:05:861 INFO  HomePage :31 - enter password to login
+2019-05-20 00:05:53 INFO  HomePage :36 - click on login button
+2019-05-20 00:05:258 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-20 00:05:03 INFO  PIMMenu :39 - Click on Employee List
+2019-05-20 00:05:858 INFO  PIMMenu :51 - Verify that user is on employee list page
+2019-05-20 00:05:404 INFO  HomePage :26 - enter user name to login
+2019-05-20 00:05:552 INFO  HomePage :31 - enter password to login
+2019-05-20 00:05:673 INFO  HomePage :36 - click on login button
+2019-05-20 00:05:27 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-20 00:05:117 INFO  PIMMenu :39 - Click on Employee List
+2019-05-20 00:05:390 INFO  PIMMenu :51 - Verify that user is on employee list page
+2019-05-20 00:05:637 INFO  HomePage :26 - enter user name to login
+2019-05-20 00:05:821 INFO  HomePage :31 - enter password to login
+2019-05-20 00:05:847 INFO  HomePage :36 - click on login button
+2019-05-20 00:05:465 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-20 00:05:450 INFO  PIMMenu :39 - Click on Employee List
+2019-05-20 01:05:639 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:310 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:408 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:411 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 01:05:306 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:485 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:593 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:298 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 01:05:628 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:812 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:912 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:632 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 01:05:357 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:999 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:141 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:416 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-20 01:05:963 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-20 01:05:526 INFO  AddEmployeeForm :44 - Enter First Name
+2019-05-20 01:05:911 INFO  AddEmployeeForm :49 - Enter Middle Name
+2019-05-20 01:05:95 INFO  AddEmployeeForm :54 - Enter Last Name
+2019-05-20 01:05:217 INFO  AddEmployeeForm :59 - Enter Employee ID
+2019-05-20 01:05:975 INFO  AddEmployeeForm :64 - Create Login Details
+2019-05-20 01:05:233 INFO  AddEmployeeForm :69 - Enter User Name
+2019-05-20 01:05:469 INFO  AddEmployeeForm :74 - Enter Password
+2019-05-20 01:05:723 INFO  AddEmployeeForm :79 - Re-enter Password
+2019-05-20 01:05:848 INFO  AddEmployeeForm :84 - Save Button
+2019-05-20 01:05:116 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:298 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:381 INFO  HomePage :41 - Verify that password can not be empty
+2019-05-20 01:05:759 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:951 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:87 INFO  HomePage :51 - Verify that user name can not be empty
+2019-05-20 01:05:597 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:809 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:907 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:23 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:214 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:357 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:475 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-20 01:05:540 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-20 01:05:644 INFO  PIMMenu :44 - Verify that user is on add employee page
+2019-05-20 01:05:68 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:250 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:407 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:683 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-20 01:05:950 INFO  PIMMenu :39 - Click on Employee List
+2019-05-20 01:05:20 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:388 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:487 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:06 INFO  PIMMenu :29 - Mouse Over PIM
+2019-05-20 01:05:978 INFO  PIMMenu :34 - Click on Add Employee
+2019-05-20 01:05:909 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:392 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:723 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:607 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-20 01:05:489 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-20 01:05:502 INFO  AddEmployeeForm :44 - Enter First Name
+2019-05-20 01:05:16 INFO  AddEmployeeForm :49 - Enter Middle Name
+2019-05-20 01:05:167 INFO  AddEmployeeForm :54 - Enter Last Name
+2019-05-20 01:05:287 INFO  AddEmployeeForm :89 - Clear Employee ID Text
+2019-05-20 01:05:508 INFO  AddEmployeeForm :59 - Enter Employee ID
+2019-05-20 01:05:616 INFO  AddEmployeeForm :64 - Create Login Details
+2019-05-20 01:05:802 INFO  AddEmployeeForm :69 - Enter User Name
+2019-05-20 01:05:990 INFO  AddEmployeeForm :74 - Enter Password
+2019-05-20 01:05:135 INFO  AddEmployeeForm :79 - Re-enter Password
+2019-05-20 01:05:272 INFO  AddEmployeeForm :84 - Save Button
+2019-05-20 01:05:508 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:708 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:946 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:795 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 01:05:324 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:444 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:540 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:980 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 01:05:79 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:244 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:399 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:269 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 01:05:242 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:411 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:552 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:730 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-20 01:05:07 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-20 01:05:149 INFO  AddEmployeeForm :44 - Enter First Name
+2019-05-20 01:05:794 INFO  AddEmployeeForm :49 - Enter Middle Name
+2019-05-20 01:05:917 INFO  AddEmployeeForm :54 - Enter Last Name
+2019-05-20 01:05:39 INFO  AddEmployeeForm :89 - Clear Employee ID Text
+2019-05-20 01:05:163 INFO  AddEmployeeForm :59 - Enter Employee ID
+2019-05-20 01:05:263 INFO  AddEmployeeForm :64 - Create Login Details
+2019-05-20 01:05:422 INFO  AddEmployeeForm :69 - Enter User Name
+2019-05-20 01:05:609 INFO  AddEmployeeForm :74 - Enter Password
+2019-05-20 01:05:789 INFO  AddEmployeeForm :79 - Re-enter Password
+2019-05-20 01:05:916 INFO  AddEmployeeForm :84 - Save Button
+2019-05-20 01:05:808 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:961 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:44 INFO  HomePage :41 - Verify that password can not be empty
+2019-05-20 01:05:425 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:573 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:691 INFO  HomePage :51 - Verify that user name can not be empty
+2019-05-20 01:05:506 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:670 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:813 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:628 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:770 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:868 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:305 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-20 01:05:94 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-20 01:05:222 INFO  HomePage :26 - enter user name to login
+2019-05-20 01:05:389 INFO  HomePage :31 - enter password to login
+2019-05-20 01:05:500 INFO  HomePage :36 - click on login button
+2019-05-20 01:05:587 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-20 01:05:678 INFO  PIMMenu :33 - Click on Employee List
+2019-05-20 10:05:697 INFO  HomePage :26 - enter user name to login
+2019-05-20 10:05:205 INFO  HomePage :31 - enter password to login
+2019-05-20 10:05:324 INFO  HomePage :36 - click on login button
+2019-05-20 10:05:249 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 10:05:553 INFO  HomePage :26 - enter user name to login
+2019-05-20 10:05:722 INFO  HomePage :31 - enter password to login
+2019-05-20 10:05:863 INFO  HomePage :36 - click on login button
+2019-05-20 10:05:549 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 10:05:543 INFO  HomePage :26 - enter user name to login
+2019-05-20 10:05:706 INFO  HomePage :31 - enter password to login
+2019-05-20 10:05:833 INFO  HomePage :36 - click on login button
+2019-05-20 10:05:676 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 10:05:857 INFO  HomePage :26 - enter user name to login
+2019-05-20 10:05:10 INFO  HomePage :31 - enter password to login
+2019-05-20 10:05:152 INFO  HomePage :36 - click on login button
+2019-05-20 10:05:576 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-20 10:05:383 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-20 10:05:510 INFO  AddEmployeeForm :44 - Enter First Name
+2019-05-20 10:05:664 INFO  HomePage :26 - enter user name to login
+2019-05-20 10:05:833 INFO  HomePage :36 - click on login button
+2019-05-20 10:05:935 INFO  HomePage :41 - Verify that password can not be empty
+2019-05-20 10:05:308 INFO  HomePage :31 - enter password to login
+2019-05-20 10:05:502 INFO  HomePage :36 - click on login button
+2019-05-20 10:05:657 INFO  HomePage :51 - Verify that user name can not be empty
+2019-05-20 10:05:907 INFO  HomePage :26 - enter user name to login
+2019-05-20 10:05:73 INFO  HomePage :31 - enter password to login
+2019-05-20 10:05:169 INFO  HomePage :36 - click on login button
+2019-05-20 10:05:135 INFO  HomePage :26 - enter user name to login
+2019-05-20 10:05:314 INFO  HomePage :31 - enter password to login
+2019-05-20 10:05:470 INFO  HomePage :36 - click on login button
+2019-05-20 10:05:733 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-20 10:05:835 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-20 10:05:747 INFO  HomePage :26 - enter user name to login
+2019-05-20 10:05:905 INFO  HomePage :31 - enter password to login
+2019-05-20 10:05:24 INFO  HomePage :36 - click on login button
+2019-05-20 10:05:233 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-20 10:05:303 INFO  PIMMenu :33 - Click on Employee List
+2019-05-20 10:05:132 INFO  HomePage :26 - enter user name to login
+2019-05-20 10:05:480 INFO  HomePage :31 - enter password to login
+2019-05-20 10:05:585 INFO  HomePage :36 - click on login button
+2019-05-20 10:05:252 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-20 11:05:806 INFO  HomePage :26 - enter user name to login
+2019-05-20 11:05:192 INFO  HomePage :31 - enter password to login
+2019-05-20 11:05:392 INFO  HomePage :36 - click on login button
+2019-05-20 11:05:498 INFO  HomePage :26 - enter user name to login
+2019-05-20 11:05:790 INFO  HomePage :31 - enter password to login
+2019-05-20 11:05:964 INFO  HomePage :36 - click on login button
+2019-05-20 11:05:350 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 11:05:810 INFO  HomePage :26 - enter user name to login
+2019-05-20 11:05:31 INFO  HomePage :31 - enter password to login
+2019-05-20 11:05:193 INFO  HomePage :36 - click on login button
+2019-05-20 11:05:739 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 11:05:798 INFO  HomePage :26 - enter user name to login
+2019-05-20 11:05:56 INFO  HomePage :31 - enter password to login
+2019-05-20 11:05:243 INFO  HomePage :36 - click on login button
+2019-05-20 11:05:882 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 11:05:978 INFO  HomePage :26 - enter user name to login
+2019-05-20 11:05:169 INFO  HomePage :31 - enter password to login
+2019-05-20 11:05:409 INFO  HomePage :36 - click on login button
+2019-05-20 11:05:97 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-20 11:05:955 INFO  HomePage :26 - enter user name to login
+2019-05-20 11:05:279 INFO  HomePage :36 - click on login button
+2019-05-20 11:05:523 INFO  HomePage :41 - Verify that password can not be empty
+2019-05-20 11:05:536 INFO  HomePage :31 - enter password to login
+2019-05-20 11:05:743 INFO  HomePage :36 - click on login button
+2019-05-20 11:05:859 INFO  HomePage :51 - Verify that user name can not be empty
+2019-05-20 11:05:771 INFO  HomePage :26 - enter user name to login
+2019-05-20 11:05:934 INFO  HomePage :31 - enter password to login
+2019-05-20 11:05:78 INFO  HomePage :36 - click on login button
+2019-05-20 11:05:118 INFO  HomePage :26 - enter user name to login
+2019-05-20 11:05:398 INFO  HomePage :31 - enter password to login
+2019-05-20 11:05:594 INFO  HomePage :36 - click on login button
+2019-05-20 11:05:274 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-20 11:05:810 INFO  HomePage :26 - enter user name to login
+2019-05-20 11:05:08 INFO  HomePage :31 - enter password to login
+2019-05-20 11:05:177 INFO  HomePage :36 - click on login button
+2019-05-20 11:05:825 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-20 21:05:132 INFO  HomePage :26 - enter user name to login
+2019-05-20 21:05:191 INFO  HomePage :31 - enter password to login
+2019-05-20 21:05:467 INFO  HomePage :36 - click on login button
+2019-05-20 21:05:341 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 21:05:406 INFO  HomePage :26 - enter user name to login
+2019-05-20 21:05:640 INFO  HomePage :31 - enter password to login
+2019-05-20 21:05:791 INFO  HomePage :36 - click on login button
+2019-05-20 21:05:511 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 21:05:827 INFO  HomePage :26 - enter user name to login
+2019-05-20 21:05:965 INFO  HomePage :31 - enter password to login
+2019-05-20 21:05:63 INFO  HomePage :36 - click on login button
+2019-05-20 21:05:573 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-20 21:05:07 INFO  HomePage :26 - enter user name to login
+2019-05-20 21:05:209 INFO  HomePage :31 - enter password to login
+2019-05-20 21:05:332 INFO  HomePage :36 - click on login button
+2019-05-20 21:05:868 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-20 21:05:604 INFO  HomePage :26 - enter user name to login
+2019-05-20 21:05:730 INFO  HomePage :36 - click on login button
+2019-05-20 21:05:819 INFO  HomePage :41 - Verify that password can not be empty
+2019-05-20 21:05:409 INFO  HomePage :31 - enter password to login
+2019-05-20 21:05:560 INFO  HomePage :36 - click on login button
+2019-05-20 21:05:650 INFO  HomePage :51 - Verify that user name can not be empty
+2019-05-20 21:05:172 INFO  HomePage :26 - enter user name to login
+2019-05-20 21:05:328 INFO  HomePage :31 - enter password to login
+2019-05-20 21:05:430 INFO  HomePage :36 - click on login button
+2019-05-20 21:05:04 INFO  HomePage :26 - enter user name to login
+2019-05-20 21:05:174 INFO  HomePage :31 - enter password to login
+2019-05-20 21:05:317 INFO  HomePage :36 - click on login button
+2019-05-20 21:05:830 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-20 21:05:782 INFO  HomePage :26 - enter user name to login
+2019-05-20 21:05:976 INFO  HomePage :31 - enter password to login
+2019-05-20 21:05:71 INFO  HomePage :36 - click on login button
+2019-05-20 21:05:516 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 09:05:969 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:345 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:662 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:921 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-22 09:05:406 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:593 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:724 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:208 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-22 09:05:873 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:76 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:215 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:798 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-22 09:05:238 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:442 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:606 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:178 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 09:05:73 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:254 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:398 INFO  HomePage :41 - Verify that password can not be empty
+2019-05-22 09:05:78 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:219 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:323 INFO  HomePage :51 - Verify that user name can not be empty
+2019-05-22 09:05:318 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:462 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:567 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:904 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:88 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:242 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:890 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 09:05:478 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:677 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:827 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:309 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 09:05:48 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:524 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:727 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:154 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-22 09:05:885 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:22 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:118 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:605 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-22 09:05:482 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:648 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:738 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:186 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-22 09:05:134 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:319 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:421 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:927 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 09:05:940 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:177 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:328 INFO  HomePage :41 - Verify that password can not be empty
+2019-05-22 09:05:346 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:545 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:647 INFO  HomePage :51 - Verify that user name can not be empty
+2019-05-22 09:05:454 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:656 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:811 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:800 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:989 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:162 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:883 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 09:05:813 INFO  HomePage :26 - enter user name to login
+2019-05-22 09:05:996 INFO  HomePage :31 - enter password to login
+2019-05-22 09:05:126 INFO  HomePage :36 - click on login button
+2019-05-22 09:05:827 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 11:05:672 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:504 INFO  HomePage :31 - enter password to login
+2019-05-22 11:05:663 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:98 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-22 11:05:735 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:870 INFO  HomePage :31 - enter password to login
+2019-05-22 11:05:969 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:508 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-22 11:05:473 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:641 INFO  HomePage :31 - enter password to login
+2019-05-22 11:05:741 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:208 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-22 11:05:806 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:919 INFO  HomePage :31 - enter password to login
+2019-05-22 11:05:23 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:563 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 11:05:521 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:737 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:901 INFO  HomePage :41 - Verify that password can not be empty
+2019-05-22 11:05:236 INFO  HomePage :31 - enter password to login
+2019-05-22 11:05:391 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:498 INFO  HomePage :51 - Verify that user name can not be empty
+2019-05-22 11:05:461 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:635 INFO  HomePage :31 - enter password to login
+2019-05-22 11:05:777 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:296 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:483 INFO  HomePage :31 - enter password to login
+2019-05-22 11:05:632 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:499 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 11:05:487 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:677 INFO  HomePage :31 - enter password to login
+2019-05-22 11:05:868 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:580 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 11:05:158 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:397 INFO  HomePage :31 - enter password to login
+2019-05-22 11:05:535 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:53 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-22 11:05:830 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:29 INFO  HomePage :31 - enter password to login
+2019-05-22 11:05:189 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:676 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-22 11:05:187 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:392 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:510 INFO  HomePage :41 - Verify that password can not be empty
+2019-05-22 11:05:125 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:272 INFO  HomePage :31 - enter password to login
+2019-05-22 11:05:377 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:870 INFO  HomePage :61 - verify that login fails with invalid credentials
+2019-05-22 11:05:183 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:335 INFO  HomePage :31 - enter password to login
+2019-05-22 11:05:436 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:420 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:612 INFO  HomePage :31 - enter password to login
+2019-05-22 11:05:735 INFO  HomePage :36 - click on login button
+2019-05-22 11:05:676 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:889 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:59 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:63 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:257 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:434 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:687 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:866 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:21 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:821 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:37 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:222 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:764 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 11:05:873 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:83 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:234 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:85 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 11:05:149 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:377 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:530 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:264 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 11:05:06 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:233 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:399 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:773 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:941 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:54 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:850 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:14 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:122 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:934 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:120 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:280 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:145 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:328 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:449 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:19 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:222 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:341 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:96 INFO  HomePage :63 - verify that login fails with invalid credentials
+2019-05-22 11:05:903 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:73 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:231 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:947 INFO  HomePage :63 - verify that login fails with invalid credentials
+2019-05-22 11:05:178 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:316 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:437 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:184 INFO  HomePage :63 - verify that login fails with invalid credentials
+2019-05-22 11:05:673 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:870 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:35 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:785 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 11:05:245 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:439 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:630 INFO  HomePage :43 - Verify that password can not be empty
+2019-05-22 11:05:573 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:709 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:859 INFO  HomePage :53 - Verify that user name can not be empty
+2019-05-22 11:05:347 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:535 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:684 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:838 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:26 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:175 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:911 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 11:05:254 INFO  HomePage :26 - enter user name to login
+2019-05-22 11:05:468 INFO  HomePage :32 - enter password to login
+2019-05-22 11:05:583 INFO  HomePage :38 - click on login button
+2019-05-22 11:05:318 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 12:05:756 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:716 INFO  HomePage :32 - enter password to login
+2019-05-22 12:05:93 INFO  HomePage :38 - click on login button
+2019-05-22 12:05:543 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:745 INFO  HomePage :32 - enter password to login
+2019-05-22 12:05:916 INFO  HomePage :38 - click on login button
+2019-05-22 12:05:390 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:596 INFO  HomePage :32 - enter password to login
+2019-05-22 12:05:747 INFO  HomePage :38 - click on login button
+2019-05-22 12:05:529 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:747 INFO  HomePage :32 - enter password to login
+2019-05-22 12:05:444 INFO  HomePage :38 - click on login button
+2019-05-22 12:05:730 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:943 INFO  HomePage :32 - enter password to login
+2019-05-22 12:05:112 INFO  HomePage :38 - click on login button
+2019-05-22 12:05:544 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:807 INFO  HomePage :32 - enter password to login
+2019-05-22 12:05:980 INFO  HomePage :38 - click on login button
+2019-05-22 12:05:442 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:847 INFO  HomePage :33 - enter password to login
+2019-05-22 12:05:165 INFO  HomePage :40 - click on login button
+2019-05-22 12:05:460 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:697 INFO  HomePage :33 - enter password to login
+2019-05-22 12:05:876 INFO  HomePage :40 - click on login button
+2019-05-22 12:05:323 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:511 INFO  HomePage :33 - enter password to login
+2019-05-22 12:05:157 INFO  HomePage :40 - click on login button
+2019-05-22 12:05:507 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:510 INFO  HomePage :33 - enter password to login
+2019-05-22 12:05:829 INFO  HomePage :40 - click on login button
+2019-05-22 12:05:13 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:727 INFO  HomePage :33 - enter password to login
+2019-05-22 12:05:380 INFO  HomePage :40 - click on login button
+2019-05-22 12:05:51 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:797 INFO  HomePage :33 - enter password to login
+2019-05-22 12:05:465 INFO  HomePage :40 - click on login button
+2019-05-22 12:05:169 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:942 INFO  HomePage :33 - enter password to login
+2019-05-22 12:05:609 INFO  HomePage :40 - click on login button
+2019-05-22 12:05:761 INFO  HomePage :45 - Enter Username
+2019-05-22 12:05:504 INFO  HomePage :51 - Enter Password
+2019-05-22 12:05:213 INFO  HomePage :57 - Click On Submit Tab
+2019-05-22 12:05:392 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:337 INFO  HomePage :33 - enter password to login
+2019-05-22 12:05:200 INFO  HomePage :40 - click on login button
+2019-05-22 12:05:978 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:727 INFO  HomePage :33 - enter password to login
+2019-05-22 12:05:445 INFO  HomePage :40 - click on login button
+2019-05-22 12:05:243 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:489 INFO  HomePage :32 - enter password to login
+2019-05-22 12:05:661 INFO  HomePage :38 - click on login button
+2019-05-22 12:05:534 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:754 INFO  HomePage :32 - enter password to login
+2019-05-22 12:05:911 INFO  HomePage :38 - click on login button
+2019-05-22 12:05:226 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:708 INFO  HomePage :32 - enter password to login
+2019-05-22 12:05:891 INFO  HomePage :38 - click on login button
+2019-05-22 12:05:515 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:321 INFO  HomePage :32 - enter password to login
+2019-05-22 12:05:578 INFO  HomePage :38 - click on login button
+2019-05-22 12:05:829 INFO  HomePage :26 - enter user name to login
+2019-05-22 12:05:67 INFO  HomePage :32 - enter password to login
+2019-05-22 12:05:256 INFO  HomePage :38 - click on login button
+2019-05-22 13:05:655 INFO  HomePage :26 - enter user name to login
+2019-05-22 13:05:950 INFO  HomePage :32 - enter password to login
+2019-05-22 13:05:154 INFO  HomePage :38 - click on login button
+2019-05-22 13:05:267 INFO  HomePage :26 - enter user name to login
+2019-05-22 13:05:505 INFO  HomePage :32 - enter password to login
+2019-05-22 13:05:695 INFO  HomePage :38 - click on login button
+2019-05-22 13:05:258 INFO  HomePage :26 - enter user name to login
+2019-05-22 13:05:488 INFO  HomePage :32 - enter password to login
+2019-05-22 13:05:703 INFO  HomePage :38 - click on login button
+2019-05-22 13:05:256 INFO  HomePage :26 - enter user name to login
+2019-05-22 13:05:515 INFO  HomePage :32 - enter password to login
+2019-05-22 13:05:729 INFO  HomePage :38 - click on login button
+2019-05-22 13:05:903 INFO  HomePage :26 - enter user name to login
+2019-05-22 13:05:214 INFO  HomePage :32 - enter password to login
+2019-05-22 13:05:379 INFO  HomePage :38 - click on login button
+2019-05-22 13:05:693 INFO  HomePage :26 - enter user name to login
+2019-05-22 13:05:924 INFO  HomePage :32 - enter password to login
+2019-05-22 13:05:183 INFO  HomePage :38 - click on login button
+2019-05-22 13:05:826 INFO  HomePage :26 - enter user name to login
+2019-05-22 13:05:64 INFO  HomePage :32 - enter password to login
+2019-05-22 13:05:211 INFO  HomePage :38 - click on login button
+2019-05-22 13:05:830 INFO  HomePage :26 - enter user name to login
+2019-05-22 13:05:53 INFO  HomePage :32 - enter password to login
+2019-05-22 13:05:203 INFO  HomePage :38 - click on login button
+2019-05-22 13:05:991 INFO  HomePage :63 - verify that login fails with invalid credentials
+2019-05-22 13:05:850 INFO  HomePage :26 - enter user name to login
+2019-05-22 13:05:60 INFO  HomePage :32 - enter password to login
+2019-05-22 13:05:234 INFO  HomePage :38 - click on login button
+2019-05-22 13:05:937 INFO  HomePage :63 - verify that login fails with invalid credentials
+2019-05-22 13:05:454 INFO  HomePage :26 - enter user name to login
+2019-05-22 13:05:714 INFO  HomePage :32 - enter password to login
+2019-05-22 13:05:871 INFO  HomePage :38 - click on login button
+2019-05-22 16:05:468 INFO  HomePage :26 - enter user name to login
+2019-05-22 16:05:892 INFO  HomePage :32 - enter password to login
+2019-05-22 16:05:167 INFO  HomePage :38 - click on login button
+2019-05-22 16:05:132 INFO  HomePage :26 - enter user name to login
+2019-05-22 16:05:310 INFO  HomePage :32 - enter password to login
+2019-05-22 16:05:463 INFO  HomePage :38 - click on login button
+2019-05-22 16:05:648 INFO  HomePage :26 - enter user name to login
+2019-05-22 16:05:898 INFO  HomePage :32 - enter password to login
+2019-05-22 16:05:90 INFO  HomePage :38 - click on login button
+2019-05-22 16:05:901 INFO  HomePage :26 - enter user name to login
+2019-05-22 16:05:170 INFO  HomePage :32 - enter password to login
+2019-05-22 16:05:394 INFO  HomePage :38 - click on login button
+2019-05-22 16:05:272 INFO  HomePage :26 - enter user name to login
+2019-05-22 16:05:640 INFO  HomePage :32 - enter password to login
+2019-05-22 16:05:917 INFO  HomePage :38 - click on login button
+2019-05-22 16:05:929 INFO  HomePage :26 - enter user name to login
+2019-05-22 16:05:225 INFO  HomePage :32 - enter password to login
+2019-05-22 16:05:989 INFO  HomePage :38 - click on login button
+2019-05-22 16:05:75 INFO  HomePage :26 - enter user name to login
+2019-05-22 16:05:507 INFO  HomePage :32 - enter password to login
+2019-05-22 16:05:326 INFO  HomePage :38 - click on login button
+2019-05-22 16:05:352 INFO  HomePage :26 - enter user name to login
+2019-05-22 16:05:800 INFO  HomePage :32 - enter password to login
+2019-05-22 16:05:745 INFO  HomePage :38 - click on login button
+2019-05-22 16:05:504 INFO  HomePage :26 - enter user name to login
+2019-05-22 16:05:923 INFO  HomePage :32 - enter password to login
+2019-05-22 16:05:979 INFO  HomePage :38 - click on login button
+2019-05-22 16:05:776 INFO  HomePage :26 - enter user name to login
+2019-05-22 16:05:959 INFO  HomePage :32 - enter password to login
+2019-05-22 16:05:600 INFO  HomePage :38 - click on login button
+2019-05-22 16:05:660 INFO  HomePage :64 - verify that login fails with invalid credentials
+2019-05-22 16:05:551 INFO  HomePage :26 - enter user name to login
+2019-05-22 16:05:647 INFO  HomePage :32 - enter password to login
+2019-05-22 16:05:311 INFO  HomePage :38 - click on login button
+2019-05-22 17:05:878 INFO  HomePage :26 - enter user name to login
+2019-05-22 17:05:182 INFO  HomePage :32 - enter password to login
+2019-05-22 17:05:608 INFO  HomePage :38 - click on login button
+2019-05-22 17:05:115 INFO  HomePage :64 - verify that login fails with invalid credentials
+2019-05-22 17:05:279 INFO  HomePage :26 - enter user name to login
+2019-05-22 17:05:415 INFO  HomePage :32 - enter password to login
+2019-05-22 17:05:126 INFO  HomePage :38 - click on login button
+2019-05-22 17:05:436 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 17:05:178 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-22 17:05:864 INFO  HomePage :26 - enter user name to login
+2019-05-22 17:05:581 INFO  HomePage :32 - enter password to login
+2019-05-22 17:05:867 INFO  HomePage :38 - click on login button
+2019-05-22 17:05:742 INFO  HomePage :64 - verify that login fails with invalid credentials
+2019-05-22 17:05:55 INFO  HomePage :26 - enter user name to login
+2019-05-22 17:05:311 INFO  HomePage :32 - enter password to login
+2019-05-22 17:05:72 INFO  HomePage :38 - click on login button
+2019-05-22 17:05:667 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 17:05:148 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-22 17:05:465 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-22 17:05:801 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-22 17:05:71 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-22 17:05:345 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-22 17:05:503 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-22 17:05:694 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-22 17:05:942 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-22 17:05:310 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-22 17:05:687 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-22 17:05:01 INFO  AddEmployeeForm :85 - Save Button
+2019-05-22 17:05:638 INFO  HomePage :26 - enter user name to login
+2019-05-22 17:05:52 INFO  HomePage :32 - enter password to login
+2019-05-22 17:05:466 INFO  HomePage :38 - click on login button
+2019-05-22 17:05:493 INFO  HomePage :64 - verify that login fails with invalid credentials
+2019-05-22 17:05:613 INFO  HomePage :26 - enter user name to login
+2019-05-22 17:05:837 INFO  HomePage :32 - enter password to login
+2019-05-22 17:05:558 INFO  HomePage :38 - click on login button
+2019-05-22 17:05:244 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 17:05:644 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-22 17:05:450 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-22 17:05:742 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-22 17:05:17 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-22 17:05:295 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-22 17:05:440 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-22 17:05:608 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-22 17:05:751 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-22 17:05:80 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-22 17:05:426 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-22 17:05:774 INFO  AddEmployeeForm :85 - Save Button
+2019-05-22 18:05:266 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:975 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:176 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:328 INFO  HomePage :66 - verify that login fails with invalid credentials
+2019-05-22 18:05:137 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:471 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:716 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:135 INFO  HomePage :66 - verify that login fails with invalid credentials
+2019-05-22 18:05:515 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:838 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:138 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:44 INFO  HomePage :66 - verify that login fails with invalid credentials
+2019-05-22 18:05:310 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:653 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:956 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:309 INFO  HomePage :66 - verify that login fails with invalid credentials
+2019-05-22 18:05:545 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:90 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:810 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:741 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 18:05:139 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-22 18:05:834 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-22 18:05:461 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-22 18:05:716 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-22 18:05:985 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-22 18:05:132 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-22 18:05:301 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-22 18:05:456 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-22 18:05:782 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-22 18:05:330 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-22 18:05:662 INFO  AddEmployeeForm :85 - Save Button
+2019-05-22 18:05:730 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:77 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:181 INFO  HomePage :44 - Verify that password can not be empty
+2019-05-22 18:05:752 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:16 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:83 INFO  HomePage :54 - Verify that user name can not be empty
+2019-05-22 18:05:91 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:399 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:134 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:591 INFO  HomePage :66 - verify that login fails with invalid credentials
+2019-05-22 18:05:778 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:998 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:708 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:934 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:322 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:577 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:579 INFO  HomePage :66 - verify that login fails with invalid credentials
+2019-05-22 18:05:713 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:959 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:682 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:747 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 18:05:842 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-22 18:05:640 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:951 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:175 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:147 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 18:05:565 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:04 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:391 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:844 INFO  HomePage :66 - verify that login fails with invalid credentials
+2019-05-22 18:05:00 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:276 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:25 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:99 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 18:05:317 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-22 18:05:09 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-22 18:05:336 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-22 18:05:640 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-22 18:05:931 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-22 18:05:74 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-22 18:05:265 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-22 18:05:416 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-22 18:05:719 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-22 18:05:73 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-22 18:05:374 INFO  AddEmployeeForm :85 - Save Button
+2019-05-22 18:05:24 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:484 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:864 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:320 INFO  HomePage :66 - verify that login fails with invalid credentials
+2019-05-22 18:05:523 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:851 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:594 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:655 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 18:05:812 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-22 18:05:492 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-22 18:05:739 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-22 18:05:963 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-22 18:05:221 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-22 18:05:370 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-22 18:05:553 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-22 18:05:693 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-22 18:05:974 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-22 18:05:261 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-22 18:05:514 INFO  AddEmployeeForm :85 - Save Button
+2019-05-22 18:05:30 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:413 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:729 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:168 INFO  HomePage :66 - verify that login fails with invalid credentials
+2019-05-22 18:05:300 INFO  HomePage :26 - enter user name to login
+2019-05-22 18:05:528 INFO  HomePage :32 - enter password to login
+2019-05-22 18:05:242 INFO  HomePage :38 - click on login button
+2019-05-22 18:05:256 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 18:05:400 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-22 18:05:105 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-22 18:05:399 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-22 18:05:618 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-22 18:05:890 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-22 18:05:21 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-22 18:05:218 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-22 18:05:362 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-22 18:05:674 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-22 18:05:983 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-22 18:05:274 INFO  AddEmployeeForm :85 - Save Button
+2019-05-22 19:05:69 INFO  HomePage :26 - enter user name to login
+2019-05-22 19:05:322 INFO  HomePage :32 - enter password to login
+2019-05-22 19:05:547 INFO  HomePage :38 - click on login button
+2019-05-22 19:05:09 INFO  HomePage :66 - verify that login fails with invalid credentials
+2019-05-22 19:05:479 INFO  HomePage :26 - enter user name to login
+2019-05-22 19:05:701 INFO  HomePage :32 - enter password to login
+2019-05-22 19:05:926 INFO  HomePage :38 - click on login button
+2019-05-22 19:05:883 INFO  HomePage :66 - verify that login fails with invalid credentials
+2019-05-22 19:05:567 INFO  HomePage :26 - enter user name to login
+2019-05-22 19:05:924 INFO  HomePage :32 - enter password to login
+2019-05-22 19:05:152 INFO  HomePage :38 - click on login button
+2019-05-22 19:05:892 INFO  HomePage :66 - verify that login fails with invalid credentials
+2019-05-22 19:05:840 INFO  HomePage :26 - enter user name to login
+2019-05-22 19:05:217 INFO  HomePage :32 - enter password to login
+2019-05-22 19:05:546 INFO  HomePage :38 - click on login button
+2019-05-22 19:05:202 INFO  HomePage :66 - verify that login fails with invalid credentials
+2019-05-22 19:05:341 INFO  HomePage :26 - enter user name to login
+2019-05-22 19:05:538 INFO  HomePage :32 - enter password to login
+2019-05-22 19:05:257 INFO  HomePage :38 - click on login button
+2019-05-22 19:05:526 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 19:05:486 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-22 19:05:202 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-22 19:05:482 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-22 19:05:685 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-22 19:05:957 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-22 19:05:92 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-22 19:05:273 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-22 19:05:417 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-22 19:05:758 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-22 19:05:93 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-22 19:05:421 INFO  AddEmployeeForm :85 - Save Button
+2019-05-22 22:05:200 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:591 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:826 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:05 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-22 22:05:240 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:539 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:757 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:906 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:196 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:613 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:423 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-22 22:05:900 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:204 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:398 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:873 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 22:05:259 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-22 22:05:966 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:216 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:431 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:836 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 22:05:832 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:76 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:143 INFO  HomePage :53 - Verify that user name can not be empty
+2019-05-22 22:05:754 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:998 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:63 INFO  HomePage :44 - Verify that password can not be empty
+2019-05-22 22:05:528 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:961 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:450 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:864 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-22 22:05:239 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:583 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:770 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:199 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-22 22:05:932 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:368 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:561 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:214 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-22 22:05:429 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:701 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:864 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:278 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-22 22:05:463 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:713 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:877 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:269 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:629 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:804 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:263 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-22 22:05:446 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:709 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:873 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:936 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 22:05:777 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-22 22:05:828 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:195 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:416 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:892 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-22 22:05:121 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:421 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:607 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:686 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 22:05:486 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-22 22:05:621 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-22 22:05:545 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-22 22:05:732 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-22 22:05:990 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-22 22:05:142 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-22 22:05:339 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-22 22:05:489 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-22 22:05:797 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-22 22:05:150 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-22 22:05:443 INFO  AddEmployeeForm :85 - Save Button
+2019-05-22 22:05:176 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:632 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:915 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:327 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-22 22:05:560 INFO  HomePage :26 - enter user name to login
+2019-05-22 22:05:851 INFO  HomePage :32 - enter password to login
+2019-05-22 22:05:35 INFO  HomePage :38 - click on login button
+2019-05-22 22:05:836 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-22 22:05:967 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 09:05:473 INFO  HomePage :26 - enter user name to login
+2019-05-23 09:05:96 INFO  HomePage :32 - enter password to login
+2019-05-23 09:05:422 INFO  HomePage :38 - click on login button
+2019-05-23 09:05:350 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 09:05:642 INFO  HomePage :26 - enter user name to login
+2019-05-23 09:05:935 INFO  HomePage :32 - enter password to login
+2019-05-23 09:05:153 INFO  HomePage :38 - click on login button
+2019-05-23 09:05:280 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 09:05:493 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 09:05:168 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 09:05:312 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 09:05:669 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 09:05:969 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 09:05:238 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 09:05:228 INFO  HomePage :26 - enter user name to login
+2019-05-23 09:05:563 INFO  HomePage :32 - enter password to login
+2019-05-23 09:05:776 INFO  HomePage :38 - click on login button
+2019-05-23 09:05:229 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 09:05:430 INFO  HomePage :26 - enter user name to login
+2019-05-23 09:05:733 INFO  HomePage :32 - enter password to login
+2019-05-23 09:05:950 INFO  HomePage :38 - click on login button
+2019-05-23 09:05:974 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 09:05:131 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 09:05:793 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 09:05:66 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 09:05:272 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 09:05:561 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 09:05:699 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 09:05:870 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 09:05:28 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 09:05:359 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 09:05:646 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 09:05:907 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 09:05:306 INFO  AddEmployee_PersonalDetailsForm :65 - click on edit button
+2019-05-23 09:05:452 INFO  AddEmployee_PersonalDetailsForm :84 - Enter driving license number
+2019-05-23 09:05:762 INFO  AddEmployee_PersonalDetailsForm :90 - Send text to other id Passport
+2019-05-23 10:05:653 INFO  HomePage :26 - enter user name to login
+2019-05-23 10:05:14 INFO  HomePage :32 - enter password to login
+2019-05-23 10:05:243 INFO  HomePage :38 - click on login button
+2019-05-23 10:05:764 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 10:05:14 INFO  HomePage :26 - enter user name to login
+2019-05-23 10:05:347 INFO  HomePage :32 - enter password to login
+2019-05-23 10:05:565 INFO  HomePage :38 - click on login button
+2019-05-23 10:05:724 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 10:05:762 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 10:05:493 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 10:05:801 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 10:05:26 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 10:05:315 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 10:05:451 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 10:05:661 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 10:05:804 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 10:05:141 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 10:05:461 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 10:05:764 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 10:05:05 INFO  AddEmployee_PersonalDetailsForm :65 - click on edit button
+2019-05-23 10:05:160 INFO  AddEmployee_PersonalDetailsForm :84 - Enter driving license number
+2019-05-23 10:05:513 INFO  AddEmployee_PersonalDetailsForm :90 - Send text to other id Passport
+2019-05-23 10:05:271 INFO  HomePage :26 - enter user name to login
+2019-05-23 10:05:590 INFO  HomePage :32 - enter password to login
+2019-05-23 10:05:819 INFO  HomePage :38 - click on login button
+2019-05-23 10:05:665 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 10:05:897 INFO  HomePage :26 - enter user name to login
+2019-05-23 10:05:213 INFO  HomePage :32 - enter password to login
+2019-05-23 10:05:447 INFO  HomePage :38 - click on login button
+2019-05-23 10:05:242 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 10:05:384 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 10:05:25 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 10:05:300 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 10:05:499 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 10:05:763 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 10:05:879 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 10:05:70 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 10:05:214 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 10:05:555 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 10:05:877 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 10:05:160 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 10:05:622 INFO  AddEmployee_PersonalDetailsForm :65 - click on edit button
+2019-05-23 10:05:789 INFO  AddEmployee_PersonalDetailsForm :84 - Enter driving license number
+2019-05-23 10:05:136 INFO  AddEmployee_PersonalDetailsForm :90 - Send text to other id Passport
+2019-05-23 10:05:851 INFO  HomePage :26 - enter user name to login
+2019-05-23 10:05:167 INFO  HomePage :32 - enter password to login
+2019-05-23 10:05:359 INFO  HomePage :38 - click on login button
+2019-05-23 10:05:219 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 10:05:448 INFO  HomePage :26 - enter user name to login
+2019-05-23 10:05:732 INFO  HomePage :32 - enter password to login
+2019-05-23 10:05:902 INFO  HomePage :38 - click on login button
+2019-05-23 10:05:734 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 10:05:891 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 10:05:541 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 10:05:842 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 10:05:34 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 10:05:294 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 10:05:411 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 10:05:602 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 10:05:755 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 10:05:82 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 10:05:398 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 10:05:691 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 10:05:112 INFO  HomePage :26 - enter user name to login
+2019-05-23 10:05:445 INFO  HomePage :32 - enter password to login
+2019-05-23 10:05:629 INFO  HomePage :38 - click on login button
+2019-05-23 10:05:477 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 10:05:692 INFO  HomePage :26 - enter user name to login
+2019-05-23 10:05:976 INFO  HomePage :32 - enter password to login
+2019-05-23 10:05:162 INFO  HomePage :38 - click on login button
+2019-05-23 10:05:98 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 10:05:220 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 10:05:836 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 10:05:101 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 10:05:306 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 10:05:572 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 10:05:688 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 10:05:877 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 10:05:25 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 10:05:370 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 10:05:686 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 10:05:970 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 10:05:349 INFO  AddEmployee_PersonalDetailsForm :65 - click on edit button
+2019-05-23 10:05:508 INFO  AddEmployee_PersonalDetailsForm :84 - Enter driving license number
+2019-05-23 10:05:808 INFO  AddEmployee_PersonalDetailsForm :90 - Send text to other id Passport
+2019-05-23 10:05:468 INFO  HomePage :26 - enter user name to login
+2019-05-23 10:05:300 INFO  HomePage :32 - enter password to login
+2019-05-23 10:05:512 INFO  HomePage :38 - click on login button
+2019-05-23 10:05:552 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 10:05:883 INFO  HomePage :26 - enter user name to login
+2019-05-23 10:05:150 INFO  HomePage :32 - enter password to login
+2019-05-23 10:05:320 INFO  HomePage :38 - click on login button
+2019-05-23 10:05:371 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 10:05:914 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 10:05:609 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 10:05:898 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 10:05:77 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 10:05:322 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 10:05:453 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 10:05:642 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 10:05:779 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 10:05:93 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 10:05:400 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 10:05:681 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 10:05:357 INFO  HomePage :26 - enter user name to login
+2019-05-23 10:05:698 INFO  HomePage :32 - enter password to login
+2019-05-23 10:05:876 INFO  HomePage :38 - click on login button
+2019-05-23 10:05:852 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 10:05:229 INFO  HomePage :26 - enter user name to login
+2019-05-23 10:05:503 INFO  HomePage :32 - enter password to login
+2019-05-23 10:05:666 INFO  HomePage :38 - click on login button
+2019-05-23 10:05:605 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 10:05:882 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 10:05:612 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 10:05:141 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 10:05:325 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 10:05:579 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 10:05:727 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 10:05:898 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 10:05:29 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 10:05:340 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 10:05:665 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 10:05:935 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 10:05:548 INFO  AddEmployee_PersonalDetailsForm :68 - click on edit button
+2019-05-23 10:05:700 INFO  AddEmployee_PersonalDetailsForm :87 - Enter driving license number
+2019-05-23 10:05:44 INFO  AddEmployee_PersonalDetailsForm :93 - Send text to other id Passport
+2019-05-23 11:05:115 INFO  HomePage :26 - enter user name to login
+2019-05-23 11:05:669 INFO  HomePage :32 - enter password to login
+2019-05-23 11:05:995 INFO  HomePage :38 - click on login button
+2019-05-23 11:05:514 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 11:05:771 INFO  HomePage :26 - enter user name to login
+2019-05-23 11:05:100 INFO  HomePage :32 - enter password to login
+2019-05-23 11:05:295 INFO  HomePage :38 - click on login button
+2019-05-23 11:05:357 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 11:05:162 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 11:05:34 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 11:05:577 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 11:05:769 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 11:05:48 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 11:05:160 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 11:05:337 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 11:05:475 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 11:05:991 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 11:05:442 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 11:05:777 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 11:05:923 INFO  HomePage :26 - enter user name to login
+2019-05-23 11:05:201 INFO  HomePage :32 - enter password to login
+2019-05-23 11:05:377 INFO  HomePage :38 - click on login button
+2019-05-23 11:05:812 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 11:05:28 INFO  HomePage :26 - enter user name to login
+2019-05-23 11:05:294 INFO  HomePage :32 - enter password to login
+2019-05-23 11:05:472 INFO  HomePage :38 - click on login button
+2019-05-23 11:05:281 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 11:05:442 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 11:05:145 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 11:05:406 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 11:05:589 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 11:05:832 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 11:05:942 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 11:05:124 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 11:05:265 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 11:05:596 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 11:05:888 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 11:05:151 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 11:05:588 INFO  AddEmployee_PersonalDetailsForm :157 - click on edit button
+2019-05-23 11:05:723 INFO  AddEmployee_PersonalDetailsForm :176 - Enter driving license number
+2019-05-23 11:05:30 INFO  AddEmployee_PersonalDetailsForm :182 - Send text to other id Passport
+2019-05-23 11:05:868 INFO  AddEmployee_PersonalDetailsForm :188 - click on female
+2019-05-23 11:05:987 INFO  AddEmployee_PersonalDetailsForm :194 - Select marital status from drop down
+2019-05-23 11:05:326 INFO  AddEmployee_PersonalDetailsForm :201 - select nationality from drop down
+2019-05-23 11:05:38 INFO  AddEmployee_PersonalDetailsForm :163 - click on save button
+2019-05-23 11:05:981 INFO  HomePage :26 - enter user name to login
+2019-05-23 11:05:255 INFO  HomePage :32 - enter password to login
+2019-05-23 11:05:423 INFO  HomePage :38 - click on login button
+2019-05-23 11:05:506 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 11:05:692 INFO  HomePage :26 - enter user name to login
+2019-05-23 11:05:979 INFO  HomePage :32 - enter password to login
+2019-05-23 11:05:165 INFO  HomePage :38 - click on login button
+2019-05-23 11:05:144 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 11:05:316 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 11:05:989 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 11:05:269 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 11:05:467 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 11:05:730 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 11:05:846 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 11:05:43 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 11:05:185 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 11:05:520 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 11:05:841 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 11:05:138 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 12:05:909 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:209 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:400 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:273 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:488 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:772 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:946 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:782 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:975 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 12:05:617 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 12:05:908 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 12:05:111 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 12:05:382 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 12:05:503 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 12:05:689 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 12:05:841 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 12:05:215 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 12:05:560 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 12:05:835 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 12:05:400 INFO  AddEmployee_PersonalDetailsForm :157 - click on edit button
+2019-05-23 12:05:549 INFO  AddEmployee_PersonalDetailsForm :176 - Enter driving license number
+2019-05-23 12:05:858 INFO  AddEmployee_PersonalDetailsForm :182 - Send text to other id Passport
+2019-05-23 12:05:478 INFO  AddEmployee_PersonalDetailsForm :188 - click on female
+2019-05-23 12:05:594 INFO  AddEmployee_PersonalDetailsForm :194 - Select marital status from drop down
+2019-05-23 12:05:920 INFO  AddEmployee_PersonalDetailsForm :201 - select nationality from drop down
+2019-05-23 12:05:530 INFO  AddEmployee_PersonalDetailsForm :163 - click on save button
+2019-05-23 12:05:596 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:29 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:252 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:111 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:318 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:602 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:795 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:640 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:788 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 12:05:431 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 12:05:708 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 12:05:910 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 12:05:179 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 12:05:294 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 12:05:480 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 12:05:630 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 12:05:969 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 12:05:289 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 12:05:618 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 12:05:423 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:712 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:890 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:732 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:949 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:242 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:426 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:235 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:393 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 12:05:74 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 12:05:358 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 12:05:554 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 12:05:826 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 12:05:943 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 12:05:131 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 12:05:283 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 12:05:624 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 12:05:944 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 12:05:220 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 12:05:502 INFO  AddEmployee_PersonalDetailsForm :157 - click on edit button
+2019-05-23 12:05:661 INFO  AddEmployee_PersonalDetailsForm :176 - Enter driving license number
+2019-05-23 12:05:03 INFO  AddEmployee_PersonalDetailsForm :182 - Send text to other id Passport
+2019-05-23 12:05:650 INFO  AddEmployee_PersonalDetailsForm :188 - click on female
+2019-05-23 12:05:776 INFO  AddEmployee_PersonalDetailsForm :194 - Select marital status from drop down
+2019-05-23 12:05:153 INFO  AddEmployee_PersonalDetailsForm :201 - select nationality from drop down
+2019-05-23 12:05:808 INFO  AddEmployee_PersonalDetailsForm :163 - click on save button
+2019-05-23 12:05:130 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:467 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:686 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:513 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:56 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:351 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:558 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:381 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:131 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:479 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:728 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:586 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:575 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:58 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:374 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:261 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:557 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:865 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:97 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:355 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:280 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 12:05:924 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 12:05:234 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 12:05:443 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 12:05:710 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 12:05:837 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 12:05:51 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 12:05:210 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 12:05:591 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 12:05:958 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 12:05:297 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 12:05:563 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:912 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:136 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:953 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:181 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:484 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:703 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:508 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:620 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 12:05:250 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 12:05:563 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 12:05:774 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 12:05:47 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 12:05:163 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 12:05:343 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 12:05:491 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 12:05:883 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 12:05:167 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 12:05:500 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 12:05:977 INFO  AddEmployee_PersonalDetailsForm :157 - click on edit button
+2019-05-23 12:05:104 INFO  AddEmployee_PersonalDetailsForm :176 - Enter driving license number
+2019-05-23 12:05:396 INFO  AddEmployee_PersonalDetailsForm :182 - Send text to other id Passport
+2019-05-23 12:05:26 INFO  AddEmployee_PersonalDetailsForm :188 - click on female
+2019-05-23 12:05:148 INFO  AddEmployee_PersonalDetailsForm :194 - Select marital status from drop down
+2019-05-23 12:05:511 INFO  AddEmployee_PersonalDetailsForm :201 - select nationality from drop down
+2019-05-23 12:05:106 INFO  AddEmployee_PersonalDetailsForm :163 - click on save button
+2019-05-23 12:05:07 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:314 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:374 INFO  HomePage :44 - Verify that password can not be empty
+2019-05-23 12:05:328 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:708 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:812 INFO  HomePage :53 - Verify that user name can not be empty
+2019-05-23 12:05:305 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:735 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:42 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:875 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:106 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:410 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:636 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:127 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:405 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:620 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:441 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:664 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:919 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:103 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:319 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:984 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 12:05:382 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:712 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:954 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:793 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:17 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:317 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:546 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:447 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:542 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 12:05:765 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:150 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:342 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:197 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:09 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:272 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:449 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:288 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:460 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:854 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:58 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:886 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:452 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:898 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:146 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:977 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:161 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:437 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:607 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:874 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:529 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 12:05:169 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 12:05:456 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 12:05:666 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 12:05:937 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 12:05:52 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 12:05:250 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 12:05:397 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 12:05:771 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 12:05:72 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 12:05:395 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 12:05:761 INFO  AddEmployee_PersonalDetailsForm :157 - click on edit button
+2019-05-23 12:05:922 INFO  AddEmployee_PersonalDetailsForm :176 - Enter driving license number
+2019-05-23 12:05:252 INFO  AddEmployee_PersonalDetailsForm :182 - Send text to other id Passport
+2019-05-23 12:05:953 INFO  AddEmployee_PersonalDetailsForm :188 - click on female
+2019-05-23 12:05:84 INFO  AddEmployee_PersonalDetailsForm :194 - Select marital status from drop down
+2019-05-23 12:05:444 INFO  AddEmployee_PersonalDetailsForm :201 - select nationality from drop down
+2019-05-23 12:05:36 INFO  AddEmployee_PersonalDetailsForm :163 - click on save button
+2019-05-23 12:05:541 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:852 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:926 INFO  HomePage :44 - Verify that password can not be empty
+2019-05-23 12:05:817 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:131 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:232 INFO  HomePage :53 - Verify that user name can not be empty
+2019-05-23 12:05:896 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:154 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:310 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:133 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:304 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:552 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:715 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:588 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:22 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:312 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:174 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:424 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:697 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:886 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:676 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:775 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 12:05:199 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:579 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:738 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:705 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:888 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:126 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:295 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:180 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:268 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 12:05:855 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 12:05:124 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 12:05:323 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 12:05:575 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 12:05:688 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 12:05:876 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 12:05:22 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 12:05:360 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 12:05:684 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 12:05:950 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 12:05:891 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:327 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:541 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:487 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:699 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:13 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:209 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:293 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:439 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 12:05:755 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:65 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:262 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:686 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:898 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:178 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:359 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:365 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:507 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 12:05:196 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 12:05:492 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 12:05:701 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 12:05:982 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 12:05:91 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 12:05:282 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 12:05:430 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 12:05:768 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 12:05:49 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 12:05:329 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 12:05:606 INFO  AddEmployee_PersonalDetailsForm :157 - click on edit button
+2019-05-23 12:05:755 INFO  AddEmployee_PersonalDetailsForm :176 - Enter driving license number
+2019-05-23 12:05:84 INFO  AddEmployee_PersonalDetailsForm :182 - Send text to other id Passport
+2019-05-23 12:05:42 INFO  AddEmployee_PersonalDetailsForm :188 - click on female
+2019-05-23 12:05:150 INFO  AddEmployee_PersonalDetailsForm :194 - Select marital status from drop down
+2019-05-23 12:05:504 INFO  AddEmployee_PersonalDetailsForm :201 - select nationality from drop down
+2019-05-23 12:05:391 INFO  AddEmployee_PersonalDetailsForm :163 - click on save button
+2019-05-23 12:05:508 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:936 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:162 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:656 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:958 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:272 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:515 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:753 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:281 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 12:05:861 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:211 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:412 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:832 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 12:05:29 INFO  HomePage :26 - enter user name to login
+2019-05-23 12:05:317 INFO  HomePage :32 - enter password to login
+2019-05-23 12:05:509 INFO  HomePage :38 - click on login button
+2019-05-23 12:05:559 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 12:05:692 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 14:05:769 INFO  HomePage :26 - enter user name to login
+2019-05-23 14:05:598 INFO  HomePage :32 - enter password to login
+2019-05-23 14:05:812 INFO  HomePage :38 - click on login button
+2019-05-23 14:05:637 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 14:05:994 INFO  HomePage :26 - enter user name to login
+2019-05-23 14:05:291 INFO  HomePage :32 - enter password to login
+2019-05-23 14:05:521 INFO  HomePage :38 - click on login button
+2019-05-23 14:05:934 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 14:05:564 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 14:05:373 INFO  HomePage :26 - enter user name to login
+2019-05-23 14:05:796 INFO  HomePage :32 - enter password to login
+2019-05-23 14:05:993 INFO  HomePage :38 - click on login button
+2019-05-23 14:05:392 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 14:05:602 INFO  HomePage :26 - enter user name to login
+2019-05-23 14:05:858 INFO  HomePage :32 - enter password to login
+2019-05-23 14:05:33 INFO  HomePage :38 - click on login button
+2019-05-23 14:05:52 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 14:05:37 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 14:05:507 INFO  HomePage :26 - enter user name to login
+2019-05-23 14:05:874 INFO  HomePage :32 - enter password to login
+2019-05-23 14:05:109 INFO  HomePage :38 - click on login button
+2019-05-23 14:05:551 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 14:05:807 INFO  HomePage :26 - enter user name to login
+2019-05-23 14:05:146 INFO  HomePage :32 - enter password to login
+2019-05-23 14:05:396 INFO  HomePage :38 - click on login button
+2019-05-23 14:05:699 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 14:05:202 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 19:05:285 INFO  HomePage :26 - enter user name to login
+2019-05-23 19:05:623 INFO  HomePage :32 - enter password to login
+2019-05-23 19:05:751 INFO  HomePage :38 - click on login button
+2019-05-23 19:05:243 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 19:05:657 INFO  HomePage :26 - enter user name to login
+2019-05-23 19:05:856 INFO  HomePage :32 - enter password to login
+2019-05-23 19:05:08 INFO  HomePage :38 - click on login button
+2019-05-23 19:05:966 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 19:05:151 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 19:05:408 INFO  HomePage :26 - enter user name to login
+2019-05-23 19:05:664 INFO  HomePage :32 - enter password to login
+2019-05-23 19:05:793 INFO  HomePage :38 - click on login button
+2019-05-23 19:05:167 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 19:05:326 INFO  HomePage :26 - enter user name to login
+2019-05-23 19:05:535 INFO  HomePage :32 - enter password to login
+2019-05-23 19:05:664 INFO  HomePage :38 - click on login button
+2019-05-23 19:05:531 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 19:05:618 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 19:05:159 INFO  HomePage :26 - enter user name to login
+2019-05-23 19:05:394 INFO  HomePage :32 - enter password to login
+2019-05-23 19:05:536 INFO  HomePage :38 - click on login button
+2019-05-23 19:05:909 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 19:05:41 INFO  HomePage :26 - enter user name to login
+2019-05-23 19:05:248 INFO  HomePage :32 - enter password to login
+2019-05-23 19:05:370 INFO  HomePage :38 - click on login button
+2019-05-23 19:05:412 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 19:05:166 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 19:05:534 INFO  HomePage :26 - enter user name to login
+2019-05-23 19:05:855 INFO  HomePage :32 - enter password to login
+2019-05-23 19:05:997 INFO  HomePage :38 - click on login button
+2019-05-23 19:05:390 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 19:05:539 INFO  HomePage :26 - enter user name to login
+2019-05-23 19:05:734 INFO  HomePage :32 - enter password to login
+2019-05-23 19:05:867 INFO  HomePage :38 - click on login button
+2019-05-23 19:05:634 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 19:05:760 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 19:05:513 INFO  HomePage :26 - enter user name to login
+2019-05-23 19:05:793 INFO  HomePage :32 - enter password to login
+2019-05-23 19:05:934 INFO  HomePage :38 - click on login button
+2019-05-23 19:05:748 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 19:05:891 INFO  HomePage :26 - enter user name to login
+2019-05-23 19:05:126 INFO  HomePage :32 - enter password to login
+2019-05-23 19:05:268 INFO  HomePage :38 - click on login button
+2019-05-23 19:05:18 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 19:05:177 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 19:05:544 INFO  HomePage :26 - enter user name to login
+2019-05-23 19:05:767 INFO  HomePage :32 - enter password to login
+2019-05-23 19:05:889 INFO  HomePage :38 - click on login button
+2019-05-23 19:05:754 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 19:05:890 INFO  HomePage :26 - enter user name to login
+2019-05-23 19:05:75 INFO  HomePage :32 - enter password to login
+2019-05-23 19:05:201 INFO  HomePage :38 - click on login button
+2019-05-23 19:05:33 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 19:05:136 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 20:05:448 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:354 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:517 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:786 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:866 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:144 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:362 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:767 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:577 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:910 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:110 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:494 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:275 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:536 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:748 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:822 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:984 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:254 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:404 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:118 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 20:05:161 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 20:05:157 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 20:05:461 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 20:05:600 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 20:05:774 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 20:05:852 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 20:05:985 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 20:05:137 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 20:05:373 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 20:05:681 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 20:05:900 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 20:05:999 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:301 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:493 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:865 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:61 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:309 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:553 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:438 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 20:05:516 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 20:05:266 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 20:05:500 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 20:05:672 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 20:05:00 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 20:05:125 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 20:05:274 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 20:05:433 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 20:05:939 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 20:05:325 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 20:05:612 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 20:05:08 INFO  AddEmployee_PersonalDetailsForm :157 - click on edit button
+2019-05-23 20:05:145 INFO  AddEmployee_PersonalDetailsForm :176 - Enter driving license number
+2019-05-23 20:05:419 INFO  AddEmployee_PersonalDetailsForm :182 - Send text to other id Passport
+2019-05-23 20:05:76 INFO  AddEmployee_PersonalDetailsForm :188 - click on female
+2019-05-23 20:05:195 INFO  AddEmployee_PersonalDetailsForm :194 - Select marital status from drop down
+2019-05-23 20:05:540 INFO  AddEmployee_PersonalDetailsForm :201 - select nationality from drop down
+2019-05-23 20:05:980 INFO  AddEmployee_PersonalDetailsForm :163 - click on save button
+2019-05-23 20:05:405 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:738 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:886 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:793 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:942 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:139 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:258 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:27 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 20:05:114 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 20:05:117 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:414 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:488 INFO  HomePage :44 - Verify that password can not be empty
+2019-05-23 20:05:553 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:867 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:936 INFO  HomePage :53 - Verify that user name can not be empty
+2019-05-23 20:05:769 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:983 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:131 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:924 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:92 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:386 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:586 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:802 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:136 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:326 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:922 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:104 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:347 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:502 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:284 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 20:05:923 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 20:05:577 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:914 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:55 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:28 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:180 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:390 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:516 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:382 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 20:05:460 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 20:05:929 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:179 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:322 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:694 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:846 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:45 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:178 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:236 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 20:05:218 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 20:05:658 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:62 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:252 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:842 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:39 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:300 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:460 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:303 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 20:05:536 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 20:05:353 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:601 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:761 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:558 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:719 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:949 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:95 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:949 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 20:05:128 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 20:05:280 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:511 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:649 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:451 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:599 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:815 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:952 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:695 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 20:05:807 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 20:05:859 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:163 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:318 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:705 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 20:05:873 INFO  HomePage :26 - enter user name to login
+2019-05-23 20:05:123 INFO  HomePage :32 - enter password to login
+2019-05-23 20:05:268 INFO  HomePage :38 - click on login button
+2019-05-23 20:05:178 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 20:05:510 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 23:05:456 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:336 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:656 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:663 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 23:05:633 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:869 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:01 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:362 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 23:05:415 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:715 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:894 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:534 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 23:05:694 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:958 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:123 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:915 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 23:05:72 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:284 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:409 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:02 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 23:05:237 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 23:05:541 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 23:05:107 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 23:05:233 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 23:05:470 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 23:05:573 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 23:05:867 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 23:05:143 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 23:05:379 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 23:05:678 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 23:05:869 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 23:05:625 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:896 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:37 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:653 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 23:05:816 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:999 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:145 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:966 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 23:05:59 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 23:05:649 INFO  AddEmployeeForm :45 - Enter First Name
+2019-05-23 23:05:847 INFO  AddEmployeeForm :50 - Enter Middle Name
+2019-05-23 23:05:990 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 23:05:177 INFO  AddEmployeeForm :92 - Clear Employee ID Text
+2019-05-23 23:05:271 INFO  AddEmployeeForm :60 - Enter Employee ID
+2019-05-23 23:05:403 INFO  AddEmployeeForm :65 - Create Login Details
+2019-05-23 23:05:520 INFO  AddEmployeeForm :70 - Enter User Name
+2019-05-23 23:05:837 INFO  AddEmployeeForm :75 - Enter Password
+2019-05-23 23:05:107 INFO  AddEmployeeForm :80 - Re-enter Password
+2019-05-23 23:05:335 INFO  AddEmployeeForm :85 - Save Button
+2019-05-23 23:05:50 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:250 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:393 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:214 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 23:05:363 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:579 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:710 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:498 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 23:05:641 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 23:05:661 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:963 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:25 INFO  HomePage :44 - Verify that password can not be empty
+2019-05-23 23:05:520 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:833 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:894 INFO  HomePage :53 - Verify that user name can not be empty
+2019-05-23 23:05:978 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:216 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:375 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:200 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 23:05:330 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:546 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:667 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:614 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:833 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:976 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:929 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 23:05:93 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:298 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:415 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:349 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 23:05:424 INFO  PIMMenu :28 - Click on Add Employee
+2019-05-23 23:05:674 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:923 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:70 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:874 INFO  HomePage :62 - verify that login fails with invalid credentials
+2019-05-23 23:05:26 INFO  HomePage :26 - enter user name to login
+2019-05-23 23:05:265 INFO  HomePage :32 - enter password to login
+2019-05-23 23:05:396 INFO  HomePage :38 - click on login button
+2019-05-23 23:05:223 INFO  PIMMenu :23 - Mouse Over PIM
+2019-05-23 23:05:300 INFO  PIMMenu :33 - Click on Employee List
+2019-05-23 23:05:558 INFO  HomePage :27 - enter user name to login
+2019-05-23 23:05:87 INFO  HomePage :33 - enter password to login
+2019-05-23 23:05:244 INFO  HomePage :39 - click on login button
+2019-05-23 23:05:661 INFO  HomePage :63 - verify that login fails with invalid credentials
+2019-05-23 23:05:999 INFO  HomePage :27 - enter user name to login
+2019-05-23 23:05:231 INFO  HomePage :33 - enter password to login
+2019-05-23 23:05:388 INFO  HomePage :39 - click on login button
+2019-05-23 23:05:581 INFO  HomePage :79 - enter user name, password and click on login button
+2019-05-23 23:05:726 INFO  HomePage :28 - enter user name to login
+2019-05-23 23:05:986 INFO  HomePage :35 - enter password to login
+2019-05-23 23:05:161 INFO  HomePage :42 - click on login button
+2019-05-23 23:05:08 INFO  HomePage :69 - verify that login fails with invalid credentials
+2019-05-23 23:05:129 INFO  HomePage :79 - enter user name, password and click on login button
+2019-05-23 23:05:202 INFO  HomePage :28 - enter user name to login
+2019-05-23 23:05:375 INFO  HomePage :35 - enter password to login
+2019-05-23 23:05:576 INFO  HomePage :42 - click on login button
+2019-05-23 23:05:464 INFO  PIMMenu :24 - Mouse Over PIM
+2019-05-23 23:05:799 INFO  PIMMenu :30 - Click on Add Employee
+2019-05-23 23:05:416 INFO  AddEmployeeForm :43 - Enter First Name
+2019-05-23 23:05:05 INFO  AddEmployeeForm :49 - Enter Middle Name
+2019-05-23 23:05:133 INFO  AddEmployeeForm :55 - Enter Last Name
+2019-05-23 23:05:314 INFO  AddEmployeeForm :98 - Clear Employee ID Text
+2019-05-23 23:05:391 INFO  AddEmployeeForm :61 - Enter Employee ID
+2019-05-23 23:05:523 INFO  AddEmployeeForm :67 - Create Login Details
+2019-05-23 23:05:622 INFO  AddEmployeeForm :73 - Enter User Name
+2019-05-23 23:05:848 INFO  AddEmployeeForm :79 - Enter Password
+2019-05-23 23:05:73 INFO  AddEmployeeForm :85 - Re-enter Password
+2019-05-23 23:05:268 INFO  AddEmployeeForm :91 - click on save Button

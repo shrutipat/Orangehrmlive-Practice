@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="564371e1-8904-421a-80fe-93535f784453" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/demo/orangehrmlive/webpages/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2465">
+              <caret line="145" column="24" selection-start-line="145" selection-start-column="24" selection-end-line="145" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="78" column="69" selection-start-line="78" selection-start-column="69" selection-end-line="78" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/screenshots/user_Should_Be_Able_To_Save_Personal_Details_Successfully.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/PIMMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/DashBoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/AddEmployeeForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/utility/Util.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3487">
+              <caret line="211" column="101" selection-start-line="211" selection-start-column="101" selection-end-line="211" selection-end-column="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/EmployeeListOrInformationPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/AddEmployee_PersonalDetailsForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3791">
+              <caret line="223" column="23" lean-forward="true" selection-start-line="223" selection-start-column="23" selection-end-line="223" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>personal_txtLicExpDate</find>
+      <find>popUp</find>
+      <find>random</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/AddEmployee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/EmployeeList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/basepage/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/demo/orangehrmlive/resources/configfiles/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/EmployeeInformationPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/property/LoadProperty.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/browserselector/BrowserSelector.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/demo/orangehrmlive/resources/configfiles/config.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/utility/Util.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/demo/orangehrmlive/testbase/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/PIMMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/EmployeeListOrInformationPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/DashBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/AddEmployeeForm.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/demo/orangehrmlive/webpages/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/AddEmployee_PersonalDetailsForm.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo-orangehrmlive-project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo-orangehrmlive-project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="714" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo-orangehrmlive-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-orangehrmlive-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-orangehrmlive-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-orangehrmlive-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-orangehrmlive-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-orangehrmlive-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-orangehrmlive-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-orangehrmlive-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-orangehrmlive-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-orangehrmlive-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orangehrmlive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-orangehrmlive-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-orangehrmlive-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orangehrmlive" type="462c0819:PsiDirectoryNode" />
+              <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-orangehrmlive-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-orangehrmlive-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orangehrmlive" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-orangehrmlive-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-orangehrmlive-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orangehrmlive" type="462c0819:PsiDirectoryNode" />
+              <item name="utility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-orangehrmlive-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-orangehrmlive-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-orangehrmlive-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-orangehrmlive-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-orangehrmlive-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-orangehrmlive-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orangehrmlive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-orangehrmlive-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-orangehrmlive-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orangehrmlive" type="462c0819:PsiDirectoryNode" />
+              <item name="webpages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558652335479" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../seleniumYell" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Archita\IdeaProjects\demo-orangehrmlive-project\src\test\java\com\demo\orangehrmlive\resources\driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTest.user_Should_Be_Able_To_Add_Employee_Details_And_Reach_Personal_Details_Page">
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo-orangehrmlive-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.orangehrmlive.webpages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.orangehrmlive.webpages" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.orangehrmlive.webpages.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.user_Should_Be_Able_To_Add_Employee_Details_And_Reach_Personal_Details_Page" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo-orangehrmlive-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.orangehrmlive.webpages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.orangehrmlive.webpages" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.orangehrmlive.webpages.LoginTest" />
+      <option name="METHOD_NAME" value="user_Should_Be_Able_To_Add_Employee_Details_And_Reach_Personal_Details_Page" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.user_Should_Be_Able_To_Delete_Correct_Details_Successfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo-orangehrmlive-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.orangehrmlive.webpages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.orangehrmlive.webpages" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.orangehrmlive.webpages.LoginTest" />
+      <option name="METHOD_NAME" value="user_Should_Be_Able_To_Delete_Correct_Details_Successfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.user_Should_Login_Successfully_With_Credentials_On_Website" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo-orangehrmlive-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.orangehrmlive.webpages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.orangehrmlive.webpages" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.orangehrmlive.webpages.LoginTest" />
+      <option name="METHOD_NAME" value="user_Should_Login_Successfully_With_Credentials_On_Website" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.z_user_Should_Be_Able_To_Delete_Correct_Details_Successfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo-orangehrmlive-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.orangehrmlive.webpages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.orangehrmlive.webpages" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.orangehrmlive.webpages.LoginTest" />
+      <option name="METHOD_NAME" value="z_user_Should_Be_Able_To_Delete_Correct_Details_Successfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest.user_Should_Be_Able_To_Add_Employee_Details_And_Reach_Personal_Details_Page" />
+        <item itemvalue="TestNG.LoginTest.user_Should_Login_Successfully_With_Credentials_On_Website" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.z_user_Should_Be_Able_To_Delete_Correct_Details_Successfully" />
+        <item itemvalue="TestNG.LoginTest.user_Should_Be_Able_To_Delete_Correct_Details_Successfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="564371e1-8904-421a-80fe-93535f784453" name="Default Changelist" comment="" />
+      <created>1558261443148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558261443148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LoginTest_user_Should_Be_Able_To_Delete_Correct_Details_Successfully - 2019.05.23 at 19h 29m 51s.xml">
+      <configuration name="LoginTest.user_Should_Be_Able_To_Delete_Correct_Details_Successfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest - 2019.05.23 at 20h 17m 22s.xml">
+      <configuration name="LoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_z_user_Should_Be_Able_To_Delete_Correct_Details_Successfully - 2019.05.23 at 20h 19m 49s.xml">
+      <configuration name="LoginTest.z_user_Should_Be_Able_To_Delete_Correct_Details_Successfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_z_user_Should_Be_Able_To_Delete_Correct_Details_Successfully - 2019.05.23 at 20h 23m 35s.xml">
+      <configuration name="LoginTest.z_user_Should_Be_Able_To_Delete_Correct_Details_Successfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_z_user_Should_Be_Able_To_Delete_Correct_Details_Successfully - 2019.05.23 at 20h 25m 44s.xml">
+      <configuration name="LoginTest.z_user_Should_Be_Able_To_Delete_Correct_Details_Successfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_z_user_Should_Be_Able_To_Delete_Correct_Details_Successfully - 2019.05.23 at 20h 27m 28s.xml">
+      <configuration name="LoginTest.z_user_Should_Be_Able_To_Delete_Correct_Details_Successfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_z_user_Should_Be_Able_To_Delete_Correct_Details_Successfully - 2019.05.23 at 20h 29m 38s.xml">
+      <configuration name="LoginTest.z_user_Should_Be_Able_To_Delete_Correct_Details_Successfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest - 2019.05.23 at 23h 11m 03s.xml">
+      <configuration name="LoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_user_Should_Login_Successfully_With_Credentials_On_Website - 2019.05.23 at 23h 43m 25s.xml">
+      <configuration name="LoginTest.user_Should_Login_Successfully_With_Credentials_On_Website" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_user_Should_Be_Able_To_Add_Employee_Details_And_Reach_Personal_Details_Page - 2019.05.23 at 23h 58m 49s.xml">
+      <configuration name="LoginTest.user_Should_Be_Able_To_Add_Employee_Details_And_Reach_Personal_Details_Page" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33358547" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31096563" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21406959" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3371522" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/AddEmployeePersonalDetails.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/demo/orangehrmlive/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/basepage/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/logs/log.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/property/LoadProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/browserselector/BrowserSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/demo/orangehrmlive/resources/configfiles/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/demo/orangehrmlive/resources/configfiles/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/demo/orangehrmlive/testbase/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/screenshots/user_Should_Be_Able_To_Save_Personal_Details_Successfully.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/utility/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3487">
+          <caret line="211" column="101" selection-start-line="211" selection-start-column="101" selection-end-line="211" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/PIMMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="78" column="69" selection-start-line="78" selection-start-column="69" selection-end-line="78" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/EmployeeListOrInformationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/DashBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/AddEmployeeForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/demo/orangehrmlive/webpages/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="145" column="24" selection-start-line="145" selection-start-column="24" selection-end-line="145" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/orangehrmlive/pageobjects/AddEmployee_PersonalDetailsForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3791">
+          <caret line="223" column="23" lean-forward="true" selection-start-line="223" selection-start-column="23" selection-end-line="223" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
